@@ -1,2 +1,2 @@
 # hello-world
-Hi, my name is Cisco Digger. I like to chew rocks.
+Hi, my name is Cisco Digger. I chew rocks.
